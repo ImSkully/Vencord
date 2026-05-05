@@ -613,16 +613,14 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Cootshk",
         id: 921605971577548820n
     },
-<<<<<<< HEAD
     Skully: {
         name: "Skully",
         id: 150298098516754432n
-=======
+    },
     koish1: {
         name: "koish1",
         id: 291089948709486593n,
         badge: false,
->>>>>>> 2fbe267499205d0854a1d0b7079f39db1d5dbc40
     },
     thororen: {
         name: "thororen",
